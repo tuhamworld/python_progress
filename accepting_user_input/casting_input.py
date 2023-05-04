@@ -1,0 +1,8 @@
+print("Please Enter your Full Name below")
+name = input()
+print("Please Enter your Profession below")
+profession = input()
+print("Please Enter your Age below")
+age = input()
+print("Displaying results in few seconds...")
+print('Your name is ' + str(name) + 'you are a ' + str(profession) + 'by profession.' + 'Guess what?! You clocked' + str(age) + ' this year')
